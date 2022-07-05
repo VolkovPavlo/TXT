@@ -1,0 +1,5 @@
+1.Terminal
+2.Git
+3.GitHub
+4.Postman
+5.JS
