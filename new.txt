@@ -1,0 +1,4 @@
+1.name - Pavlo
+2.surname - Volkov
+3.pets - 1
+4.salary - 2000$
